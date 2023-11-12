@@ -1,5 +1,6 @@
 #include "main.h"
 
+/********************** Checked By Tamir ***********************/
 /**
  * Created by : Morgan
  * handle_print - Prints an argument based on its type

@@ -1,6 +1,6 @@
 #include "main.h"
 
-
+/********************** Checked By Tamir ***********************/
 /**
  * Created by : Morgan
  * get_flags - Calculates active flags

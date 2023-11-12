@@ -1,5 +1,6 @@
 #include "main.h"
 
+/********************** Checked By Tamir ***********************/
 /**
  * Created by: Morgan
  * get_size - Calculates the size to cast the argument

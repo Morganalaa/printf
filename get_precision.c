@@ -1,4 +1,5 @@
 #include "main.h"
+/********************** Checked By Morgan ***********************/
  /********************************** Created By Tamir Khalid ********************/
 /**
  * get_precision - Calculates the precision for printing

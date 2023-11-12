@@ -1,4 +1,5 @@
 #include "main.h"
+/********************** Checked By Morgan ***********************/
  /*************************** Created by Tamir Khalid ***********************/
 /**
  * get_width - Calculates the width for printing
